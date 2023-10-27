@@ -1,6 +1,4 @@
 from pyrogram import Client
-import os
-
 
 def main():
     print("Telegram String Session Generator\n")
